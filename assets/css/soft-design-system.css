@@ -26712,3 +26712,7 @@ pre[class*="language-"] {
   font-size: 1.3rem !important;
   font-weight: bolder;
 }
+
+.akala {
+  background: hsla(37, 95%, 57%, 1);
+}

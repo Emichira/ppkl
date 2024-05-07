@@ -26707,3 +26707,8 @@ pre[class*="language-"] {
 .fonti {
   font-size: 1.4rem;
 }
+
+.mbiga {
+  font-size: 1.3rem !important;
+  font-weight: bolder;
+}

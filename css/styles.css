@@ -2906,7 +2906,7 @@ img.u-pull-left {
 }
 
 .s-header__logo img {
-    width          : 40px;
+    width          : 140px;
     margin         : 0;
     vertical-align : bottom;
 }
@@ -3510,9 +3510,13 @@ img.u-pull-left {
 .s-services {
     background-color : var(--color-gray-19);
     padding-top      : var(--vspace-4);
-    padding-bottom   : var(--vspace-5);
+    padding-bottom   : var(--vspace-3);
     color            : rgba(255, 255, 255, 0.35);
     position         : relative;
+}
+
+.kala {
+    color: whitesmoke;
 }
 
 /* --------------------------------------------------------------------
@@ -3631,7 +3635,6 @@ img.u-pull-left {
  * ------------------------------------------------------------------- */
 .s-portfolio {
     background : white;
-    min-height : 800px;
     padding    : 0;
     position   : relative;
 }

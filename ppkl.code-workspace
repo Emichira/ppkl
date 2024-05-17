@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../pixels/demo.themesberg.com-latest"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ppkl"
+	}
+}

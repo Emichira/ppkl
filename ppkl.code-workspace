@@ -2,9 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../pixels/demo.themesberg.com-latest"
 		}
 	],
 	"settings": {
